@@ -11,7 +11,7 @@ set SUPPRESS_MA_PROMPT=1
 call conda activate uav_epc
 
 :: 切换到训练目录（你的实际路径）
-cd /d C:\Users\22895\Desktop\uav_project\UAV-path-planning
+cd /d C:\Users\22895\Desktop\uav_projectUAV-path-planning
 
 :: 启动训练脚本
 python train_uav_food_collection.py
